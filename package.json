@@ -2,5 +2,8 @@
   "name": "javascript-small-projects",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.1"
+  }
 }
